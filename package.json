@@ -1,6 +1,6 @@
 {
   "name": "ai-db-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.ts",
   "description": "AI DB Search is an open-source project that allows you to input natural language text and search for relevant answers in a local database by dynamically generating SQL queries. Built with TypeScript, this project provides a simple and flexible way to interact with databases using natural language queries.Find documentation on https://github.com/smitgol/ai-db-search",
   "scripts": {
